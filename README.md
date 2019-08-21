@@ -8,18 +8,19 @@
 
 ## 📖 目录(Index)
 
-- 源代码：包含一个C完整的工程，需要利用CodeWarrior打开，这里附上下载地址:[CodeWarrior](https://pan.baidu.com/s/1OaR-rMcs25L2PQ8wMJJU9g)  提取码：lwdn，里面含有安装教程，按照教程安装即可。不想安装这个软件的可以点击下面的链接，就是这么贴心，[main](https://github.com/happyCoding1024/Shandong-Colleage-Student-Electronic-Design-Competition/blob/master/src/%E9%83%A8%E5%88%86%E6%BA%90%E4%BB%A3%E7%A0%81/main.md).                               
-- 单片机: 包含我们当时采用的是16位的MC9S12XS128单片机的相关资料。
-- 智能车竞赛资料: 包含一些智能车竞赛的书籍和文档，这里附上[智能车竞赛论坛](http://www.znczz.com/member.php?mod=logging&action=login&referer=http%3A%2F%2Fwww.znczz.com%2Fforum.php%3Fmod%3Dforumdisplay%26fid%3D24%26page%3D1).里面的精华帖都值得好好看一下。
+- 源代码：包含部分源代码，可以点击下面的链接，直接查看main文件，就是这么贴心，[main](https://github.com/happyCoding1024/Shandong-Colleage-Student-Electronic-Design-Competition/blob/master/src/%E9%83%A8%E5%88%86%E6%BA%90%E4%BB%A3%E7%A0%81/main.md).                               
+- 单片机: 包含我们当时采用的是16位的MC9S12XS128单片机的相关资料；
+- 取字软件： 用于在液晶屏上显示文字时使用，利用该软件得到字符编码；
+- 赛题：包含那一年电赛的所有赛题，我们当时做的是赛题C.
 
 ## 🔔 几点建议(Suggestions)
 
 1. 对于刚进入大学的小伙伴来说，如果学校有针对学生的实验室，尽可能去争取一下，加入了它，你的大学生活至少不会迷茫；
-2. 想参加智能车竞赛的同学平时多看[智能车竞赛论坛](http://www.znczz.com/member.php?mod=logging&action=login&referer=http%3A%2F%2Fwww.znczz.com%2Fforum.php%3Fmod%3Dforumdisplay%26fid%3D24%26page%3D1)，像北科这种强队的技术报告要仔细进行研究；
+2. 参加电赛只有几天的时间，赛前准备很重要，赛前准备期间各队员就要分工明确。
 
 ## 🚀 注意事项(Attention)
 
-- 本人是小白一枚，如有错误欢迎指正，啊哈~~~
+- 本人是小白一枚，参加完比赛已经很长时间了，拿出来分享一波，当然如有错误非常欢迎指正~~~
 
 ## 💻 反馈（Feedback）
 
